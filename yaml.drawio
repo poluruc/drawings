@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T20:39:43.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="nc7N2ivxkVIYFdhA3-NR" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T20:42:17.042Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="qFj5fapB49hsvJuS-Ys6" version="21.4.0" type="github">
   <diagram name="Page-1" id="gf-BKuZjwV0Vpxad8Ld4">
     <mxGraphModel dx="1078" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -231,6 +231,15 @@
         </mxCell>
         <mxCell id="2axJj9LPkHQCmmJJg-_r-2" value="TSP Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980.25" y="598" width="70.5" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="2axJj9LPkHQCmmJJg-_r-3" value="Telus IDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="83.75" y="711" width="70.5" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="2axJj9LPkHQCmmJJg-_r-4" value="AWS Certificate Manager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="64.75" y="584" width="106.25" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="2axJj9LPkHQCmmJJg-_r-5" value="Route 53" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82.63" y="462" width="70.5" height="9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
